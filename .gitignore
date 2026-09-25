@@ -1,0 +1,10 @@
+# Keep the locally supplied scanned textbook out of the public repository.
+/resources/textbook/*.pdf
+
+# Local editor state and generated files.
+.obsidian/workspace*.json
+.obsidian/cache/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
