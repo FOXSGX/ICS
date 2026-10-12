@@ -13,4 +13,4 @@
 | [来源登记](vault/kb/SOURCES.md) | 原始材料及核实状态 | 查证概念或引用材料时 |
 | [课堂作业](coursework/assignments/) | 原题、作业和提交产物；目前为空 | 开始或检查课堂任务时 |
 | [自主实践](practice/) | 课后复现与实验产物；目前为空 | 开始动手练习时 |
-| [原始教材](resources/textbook/) / [课件](resources/slides/) | 已有一本扫描版教材；课件目前为空 | 阅读或核对原始来源时 |
+| [原始教材](resources/textbook/) / [课件](resources/slides/) | 一本扫描版教材；本地另有两份 PA2-1 课件 | 阅读或核对原始来源时 |
